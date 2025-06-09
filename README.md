@@ -1,7 +1,7 @@
 About Me
 <br>
 - 👋 Hi, I’m @steam-bell-92
-- 🌱 I’m currently learning Python/HTML/CSS/JavaScript
+- 🌱 I’m currently learning Python for Data Science/Analysis & ML
 - 😄 Pronouns: He/Him
 
 <!---
