@@ -42,6 +42,11 @@ A little about myself
 - Data Structures & Algorithms
 - EDA and visualization techniques
 
+<!-- 📂 Featured Projects:
+- 🔗 [Pokemon Data Visualizer](https://github.com/steam-bell-92/Pokemon)
+- 🌋 [Volcano EDA](https://github.com/steam-bell/volcano)-->
+
+
 🎯 Goals:
 <br>
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
@@ -50,7 +55,12 @@ A little about myself
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 📬 Let's connect!  
-Feel free to check out my repositories or reach out via GitHub/LinkedIn/Telegram/Discord.
+Feel free to check out my repositories
+
+📫 Reach Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/45-anuj-kulkarni)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/anuj_ck)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/anujck45)
 
 
 <!---
