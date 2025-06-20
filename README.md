@@ -1,10 +1,8 @@
 <img src="https://raw.githubusercontent.com/steam-bell-92/steam-bell-92/main/github-header-image.png" width="100%" />
 
 
-A little about myself 
+A little about myself 🫣
 <br>
-## 👋 Hi, I'm Anuj Kulkarni
-
 🎓 I'm a second-year Engineering student passionate about coding, data, and impactful technology.
 
 🚀 I'm currently exploring:
