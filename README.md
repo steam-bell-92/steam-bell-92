@@ -49,7 +49,7 @@
 ## 📫 Connect Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/45-anuj-kulkarni)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/anujck45)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/)
 
 <!---
 steam-bell-92/steam-bell-92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
