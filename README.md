@@ -53,8 +53,15 @@
 <p align='left'>
 <a href='https://www.linkedin.com/in/45-anuj-kulkarni'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width='45', height='45'/></a></p>
 
-[![steam-bell-92's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true)](https://github.com/steam-bell-92/github-readme-stats&show_icons=true)
+### My stats ⭐
 
+<div align='left'>
+<img alt="steam-bell-92's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&&langs_count=8"/>
+</div>
+
+### Profile views counter 👁️‍🗨️
+[![stean-bell-92 profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/steam-bell-92)
 <!---
 steam-bell-92/steam-bell-92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
