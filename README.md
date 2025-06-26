@@ -12,7 +12,6 @@
 ## 🚀 I'm currently exploring:
 - 📊 Data Science and Machine Learning
 - 🐍 Python for problem-solving and data analysis
-<!---🌱 Open Source contributions (currently part of GSSoC '25)--->
 
 ## 📚 I'm a learner, currently improving my:
 - Data Structures & Algorithms
@@ -42,11 +41,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width='45', height='45'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width='45', height='45'/>
 </p>
-
-<!-- 📂 Featured Projects:
-- 🔗 [Pokemon Data Visualizer](https://github.com/steam-bell-92/Pokemon)
-- 🌋 [Volcano EDA](https://github.com/steam-bell/volcano)-->
-
 
 ## 🎯 Competitive Platforms
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/steam_bell_92)
