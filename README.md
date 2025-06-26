@@ -3,7 +3,7 @@
 ### My stats ⭐
 <div align='left'>
 <img alt="steam-bell-92's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&&langs_count=8"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&&langs_count=10"/>
 </div>
 
 ### Profile views counter 👁️‍🗨️
