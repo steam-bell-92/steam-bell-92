@@ -2,6 +2,7 @@
 
 ### My stats ⭐
 <div align='left'>
+<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=darkhub"/>
 <img alt="Anuj's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&theme=dark&count_private=true"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&&langs_count=18&theme=dark"/>
 </div>
@@ -52,5 +53,4 @@
 <p align='left'>
 <a href='https://www.linkedin.com/in/45-anuj-kulkarni'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width='45', height='45'/></a></p>
 
-<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=darkhub"/>
 ![snake gif](https://github.com/steam-bell-92/steam-bell-92/blob/output/github-snake-dark.svg)
