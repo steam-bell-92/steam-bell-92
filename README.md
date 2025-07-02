@@ -2,7 +2,6 @@
 
 ### My stats ⭐
 <div align='left'>
-<img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=darkhub"/>
 <img alt="Anuj's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&theme=dark&count_private=true"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&&langs_count=18&theme=dark"/>
 <pre>Note: Almost all code on Jupyter Notebook is in Python</pre>
