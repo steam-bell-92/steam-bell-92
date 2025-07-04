@@ -74,4 +74,11 @@
 
 ---
 
+> 🧠 Fun Fact:
+> I'm probably the top viewer of my own GitHub profile 🤓  
+> But hey, better to build than to sit still!
+
+---
+
 ![snake gif](https://github.com/steam-bell-92/steam-bell-92/blob/output/github-snake-dark.svg)
+
