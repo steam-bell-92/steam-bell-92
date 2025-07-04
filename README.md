@@ -4,14 +4,16 @@
 
 ### My stats ⭐
 <div align='left'>
-<img alt="Anuj's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&theme=dark&count_private=true"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&&langs_count=18&theme=dark"/>
+<img alt="Anuj's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&theme=github_dark&count_private=true"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&&langs_count=18&theme=github_dark"/>
 <pre>Note: Almost all code on Jupyter Notebook is in Python</pre>
 </div>
 
 ### Profile views counter 👁️‍🗨️
-[![stean-bell-92 profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/steam-bell-92)
+[![steam-bell-92 profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/steam-bell-92)
 > Note: Most profile views are probably just me double-checking things while building 😄
+
+![](https://nirzak-streak-stats.vercel.app/?user=steam-bell-92&theme=github_dark&hide_border=false)<br/>
 
 ---
 
