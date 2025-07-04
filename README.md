@@ -12,7 +12,7 @@
 [![steam-bell-92 profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/steam-bell-92)
 > Note: Most profile views are probably just me double-checking things while building 😄
 
-![](https://nirzak-streak-stats.vercel.app/?user=steam-bell-92&theme=github_dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=steam-bell-92&theme=dark&hide_border=false)
 
 ---
 
