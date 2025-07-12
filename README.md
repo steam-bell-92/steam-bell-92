@@ -79,6 +79,8 @@
 > But hey, better to build than to sit still!
 
 ---
+## 🐍 GitHub Snake Game
 
+> Watch my contributions get eaten in real time:
 ![snake gif](https://github.com/steam-bell-92/steam-bell-92/blob/output/github-snake-dark.svg)
 
