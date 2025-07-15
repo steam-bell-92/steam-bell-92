@@ -4,7 +4,9 @@
 
 ### My stats ⭐
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api/?username=steam-bell-92&show_icons=true&theme=github_dark&count_private=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&&langs_count=18&theme=github_dark)
 > Note: Almost all code on Jupyter Notebook is in Python
 
 ### Profile views counter 👁️‍🗨️
