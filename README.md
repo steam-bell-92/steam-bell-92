@@ -7,9 +7,7 @@
 ### My stats ⭐
 
 ![Anuj's Stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show=reviews,discussions_started,discussions_answered,prs_merged&rank_icon=percentile&theme=github_dark)
-<p align='right'>
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" alt="Vector Tool" />
-</p>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" alt="Vector Tool" />
 ![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show=reviews,discussions_started,discussions_answered,prs_merged&theme=github_dark)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=donut&langs_count=18&theme=github_dark)
 
