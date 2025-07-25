@@ -5,10 +5,18 @@
 </p>
 
 ### My stats ⭐
-
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show=reviews,discussions_started,discussions_answered,prs_merged&rank_icon=percentile&theme=github_dark)
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show=reviews,discussions_started,discussions_answered,prs_merged&theme=github_dark)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=donut&langs_count=18&theme=github_dark)
+<p align='left'>
+  <img src='https://github-readme-stats.vercel.app/api?username=steam-bell-92&show=reviews,discussions_started,discussions_answered,prs_merged&rank_icon=percentile&theme=github_dark' alt='Anuj's Stats'>
+</p>
+<p align='right'>
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen alt="Vector Tool"/>
+</p>
+<p align='left'>
+  <img src='https://github-readme-stats.vercel.app/api?username=steam-bell-92&show=reviews,discussions_started,discussions_answered,prs_merged&theme=github_dark' alt='Anuj's GitHub stats'>
+</p> 
+<p align='right'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=donut&langs_count=18&theme=github_dark' alt='Top langs'>
+</p>
 > Note: Almost all code on Jupyter Notebook is in Python
 
 ### Profile views counter 👁️‍🗨️
