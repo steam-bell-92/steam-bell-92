@@ -36,7 +36,7 @@
 <table><tr>
 <td valign="top" width="33%">
 
-### 🧮 Progrmming Languages
+### 🧮 Programming Languages
 <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='45', height='45'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width='45', height='45'/>          
@@ -44,6 +44,7 @@
 </p>
 
 <td valign="top" width="33%">
+  
 ### 📊 Data Visualization
 <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width='45', height='45'/> 
@@ -55,6 +56,7 @@
 </p>
 
 <td valign="top" width="33%">
+  
 ### 🛠️ Other tools
 <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width='45', height='45'/>
