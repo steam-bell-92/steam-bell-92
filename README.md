@@ -6,9 +6,9 @@
 
 ### My stats ⭐
 
-![Anuj's Stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show=reviews,discussions_started,discussions_answered,prs_merged&rank_icon=percentile&theme=github_dark&cache_seconds=180)
+![Anuj's Stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show=reviews,discussions_started,discussions_answered,prs_merged&rank_icon=percentile&theme=github_dark&cache_seconds=60)
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" alt="Vector Tool" />
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show=reviews,discussions_started,discussions_answered,prs_merged&theme=github_dark&cache_seconds=180)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show=reviews,discussions_started,discussions_answered,prs_merged&theme=github_dark&cache_seconds=60)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=donut&langs_count=18&theme=github_dark)
 
 > Note: Almost all code on Jupyter Notebook is in Python
