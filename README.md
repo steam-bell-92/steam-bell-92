@@ -29,6 +29,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&langs_count=6&theme=github_dark)
 
+[![Anuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=steam-bell-92)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 <details>
 <summary>📌 Highlighted Projects</summary>
