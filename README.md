@@ -24,7 +24,7 @@
 ---
 
 <details>
-<summary>GitHub Stats</summary>
+<summary> 📊 GitHub Stats</summary>
   
   ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&rank_icon=percentile&theme=github_dark&cache_seconds=3600)
   
