@@ -23,14 +23,18 @@
 
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary>📊 GitHub Stats</summary>
 
 ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&rank_icon=percentile&theme=github_dark&cache_seconds=3600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=donut&langs_count=6&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=steam-bell-92&theme=dark)
+[![Anuj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=steam-bell-92&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&langs_count=6&theme=github_dark)
-
-[![Anuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=steam-bell-92)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<details>
+  
 ---
+
 <details>
 <summary>📌 Highlighted Projects</summary>
 
