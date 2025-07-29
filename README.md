@@ -30,6 +30,26 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&langs_count=6&theme=github_dark)
 
 ---
+<details>
+<summary>📌 Highlighted Projects</summary>
+
+Here are some of my featured repositories:
+
+- 🤖 [**Intel_Sensors**](https://github.com/steam-bell-92/Intel_Sensors)  
+  Supervised (Random Forest) + Unsupervised (K-Means) ML project to detect room occupancy based on sensor data.
+
+- 🎯 [**Rating-Converter**](https://github.com/steam-bell-92/Rating-Converter)  
+  Linear Regression model that converts CodeChef ratings to Codeforces and vice versa. Part of BSoC's Summer of ML.
+
+- 🎶 [**Spotify**](https://github.com/steam-bell-92/Spotify)  
+  Clustering analysis on Spotify's song dataset to group tracks by genre/type using unsupervised ML.
+
+- 🧠 [**Extrovert-Introvert**](https://github.com/steam-bell-92/Extrovert-Introvert)  
+  A classification project that categorizes users as extroverts or introverts using minimal input features.
+
+- 🌱 [**Summer-of-ML**](https://github.com/steam-bell-92/Summer-of-ML)  
+  Forked and contributed to the BSoC Summer of Machine Learning program, focused on beginner-to-intermediate ML tasks.
+</details>
 
 ## 🧰 Tech Stack
 
