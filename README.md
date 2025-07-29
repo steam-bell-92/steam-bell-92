@@ -18,7 +18,7 @@
 - Git & GitHub for Open Source
 
 ## 📈 Improving:
-- Data Structures & Algorithms (Leetcode, Codeforces)
+- Data Structures & Algorithms (Leetcode, Codechef)
 - Data Visualization with Matplotlib, Seaborn, and Plotly
 
 ---
@@ -49,7 +49,7 @@ Here are some of my featured repositories:
   A classification project that categorizes users as extroverts or introverts using minimal input features.
 
 - 🌱 [**Summer-of-ML**](https://github.com/steam-bell-92/Summer-of-ML)  
-  Forked and contributed to the BSoC Summer of Machine Learning program, focused on beginner-to-intermediate ML tasks.
+  Forked and contributed to the BSoC Summer of Machine Learning, focused on beginner-to-intermediate ML tasks.
 </details>
 
 ## 🧰 Tech Stack
