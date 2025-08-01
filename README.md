@@ -71,7 +71,7 @@ Here are some of my featured repositories:
 <table><tr>
 <td valign="top" width="33%">
 
-### 🧮 Programming Languages
+🧮 Programming Languages
 <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='45'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width='45'/>          
@@ -80,7 +80,7 @@ Here are some of my featured repositories:
 
 </td><td valign="top" width="33%">
 
-### 📊 Data & ML Tools
+📊 Data & ML Tools
 <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width='45'/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width='45'/>
@@ -91,7 +91,7 @@ Here are some of my featured repositories:
 
 </td><td valign="top" width="33%">
 
-### 🛠️ Tools & IDEs
+🛠️ Tools & IDEs
 <p align='left'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width='45'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width='45'/>
