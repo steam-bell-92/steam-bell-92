@@ -35,7 +35,7 @@
     <img src= "https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&theme=github_dark&cache_seconds=600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt = "Anuj's GitHub Stats">
   </details>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&layout=compact&langs_count=8&theme=github_dark)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&langs_count=8&theme=github_dark)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=steam-bell-92&theme=dark)
   
