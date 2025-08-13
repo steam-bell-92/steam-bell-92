@@ -5,7 +5,6 @@
 
 ---
 
-🎓 **Second-year Engineering Student**  
 🚀 Passionate about Data Science, Machine Learning & Python  
 💡 Exploring real-world applications of algorithms and statistics  
 🛠️ Actively building and contributing to open-source projects
@@ -91,7 +90,6 @@ Here are some of my featured repositories:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width='45'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width='45'/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width='45'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width='45'/>
 </p>
 
 </td><td valign="top" width="33%">
