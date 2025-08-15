@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" alt="Developer" />
 </p>
+<img src="https://img.shields.io/github/stars/steam-bell-92?label=Star%20Gazers&style=social">
 
 ---
 
@@ -26,8 +27,6 @@
 <summary> 📊 GitHub Stats</summary>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  <img src="https://img.shields.io/github/stars/steam-bell-92?label=Star%20Gazers&style=social">
   
   ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&rank_icon=percentile&theme=github_dark&cache_seconds=600&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
