@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" alt="Developer" />
 </p>
-<img src="https://img.shields.io/github/stars/steam-bell-92?label=Star%20Gazers&style=social&cacheSeconds=6">
-Star Gazers = 0
+<img src="https://img.shields.io/badge/Star%20Gazers-17-blue?style=social">
+
 ---
 
 🚀 Passionate about Data Science, Machine Learning & Python  
