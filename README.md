@@ -117,6 +117,8 @@ Here are some of my featured repositories:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/45-anuj-kulkarni)
 
+[![An image of @steambell92's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/steambell92)](https://holopin.io/@steambell92)
+
 ---
 
 <details>
