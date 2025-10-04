@@ -104,6 +104,16 @@ Here are some of my featured repositories:
 
 ---
 
+## Hacktoberfest 2025
+
+<p>
+  <img src="branch/Holopin_Early%20Bird.png" alt="Holopin Badge 1" width="250" height="250">
+  <img src="branch/Holopin_Level%200.webp" alt="Holopin Badge 2" width="250" height="250">
+</p>
+
+
+---
+
 ## 🧠 Competitive
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/steam_bell_92)
@@ -116,8 +126,6 @@ Here are some of my featured repositories:
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/45-anuj-kulkarni)
-
-[![An image of @steambell92's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/steambell92)](https://holopin.io/@steambell92)
 
 ---
 
