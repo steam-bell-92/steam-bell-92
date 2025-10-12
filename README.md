@@ -106,11 +106,7 @@ Here are some of my featured repositories:
 
 ## Hacktoberfest 2025
 
-<p>
-  <img src="branch/Holopin_Early%20Bird.png" alt="Holopin Badge 1" width="250" height="250">
-  <img src="branch/Holopin_Level%200.webp" alt="Holopin Badge 2" width="250" height="250">
-</p>
-
+[![Holopin Dashboard](https://holopin.me/steambell92)](https://holopin.io/@steambell92)
 
 ---
 
