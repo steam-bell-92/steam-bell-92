@@ -132,7 +132,4 @@ Here are some of my featured repositories:
 
 </details>
 
----
 [![Sponsor me on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/steam-bell-92)
-
----
