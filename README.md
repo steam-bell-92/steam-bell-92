@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" alt="Developer" />
 </p>
-<img src="https://img.shields.io/badge/Star%20Gazers-17-blue?style=social">
+<img src="https://img.shields.io/badge/Star%20Gazers-8-blue?style=social">
+
+[![Sponsor me on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/steam-bell-92)
 
 ---
 
@@ -42,6 +44,8 @@
   ![Anuj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=steam-bell-92&theme=github-dark)
   
 </details>
+
+Chexk out my <a href="https://medium.com/@anujck45/brewing-the-perfect-model-grid-search-cv-explained-with-chai-37ea85237d6f">Blog</a>!!
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Developer">
@@ -131,5 +135,3 @@ Here are some of my featured repositories:
 ![snake gif](https://github.com/steam-bell-92/steam-bell-92/blob/output/github-snake-dark.svg)
 
 </details>
-
-[![Sponsor me on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/steam-bell-92)
