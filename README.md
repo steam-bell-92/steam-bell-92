@@ -2,9 +2,16 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" alt="Developer" />
 </p>
-<img src="https://img.shields.io/badge/Star%20Gazers-8-blue?style=social">
 
-[![Sponsor me on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/steam-bell-92)
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Star%20Gazers-8-blue?style=social" alt="Star Gazers badge">
+    <a href="https://github.com/sponsors/steam-bell-92">
+        <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor me on GitHub badge">
+    </a>
+    <a href="https://medium.com/@anujck45/brewing-the-perfect-model-grid-search-cv-explained-with-chai-37ea85237d6f">
+        <img src="https://img.shields.io/badge/Check%20out%20my-Blog!!-red?style=flat&logo=medium" alt="Check out my Blog badge">
+    </a>
+</div>
 
 ---
 
