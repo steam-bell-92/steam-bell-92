@@ -52,8 +52,6 @@
   
 </details>
 
-Check out my <a href="https://medium.com/@anujck45/brewing-the-perfect-model-grid-search-cv-explained-with-chai-37ea85237d6f">Blog</a>!!
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Developer">
 </p>
