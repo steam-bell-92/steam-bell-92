@@ -33,7 +33,7 @@
 ---
 
 <details>
-<summary> 📊 GitHub Stats</summary>
+<summary> 📊 GitHub Analytics</summary>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
@@ -113,7 +113,7 @@ Here are some of my featured repositories:
 
 ---
 
-## Hacktoberfest 2025
+## Hacktoberfest'25
 
 [![Holopin Dashboard](https://holopin.me/steambell92)](https://holopin.io/@steambell92)
 
