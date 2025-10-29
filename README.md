@@ -37,11 +37,11 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-  ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&rank_icon=percentile&theme=github_dark&cache_seconds=60&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+  ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&rank_icon=percentile&theme=github_dark&cache_seconds=6&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
   <details>
     <summary>𖤍 If wanna see my rank</summary>
-    <img src= "https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&theme=github_dark&cache_seconds=60&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt = "Anuj's GitHub Stats">
+    <img src= "https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&theme=github_dark&cache_seconds=6&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt = "Anuj's GitHub Stats">
   </details>
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&langs_count=8&theme=github_dark)
