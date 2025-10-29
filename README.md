@@ -21,8 +21,8 @@
 
 ---
 
-## 📌 Currently Exploring:
-- Data Science and Machine Learning (Supervised Models, Metrics, EDA)
+## 📌 Currently Exploring & Fascinated By:
+- Data Science and Machine Learning
 - Python for Problem Solving and Automation
 - Git & GitHub for Open Source
 
@@ -131,6 +131,8 @@ Here are some of my featured repositories:
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/45-anuj-kulkarni)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anujcoolkarni404)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AnujKulkarni040)
 
 ---
 
