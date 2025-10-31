@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Anuj 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Anuj!+%F0%9F%91%8B;Welcome+to+my+corner+of+GitHub.;Let's+build+something+cool.&center=true&size=30&duration=7000&color=007ACC&font=Fira%20Code&speed=250&width=600" alt="Typing Animation">
+</p>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80%" alt="Developer" />
 </p>
@@ -40,7 +43,7 @@
   ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&rank_icon=percentile&theme=github_dark&cache_seconds=6&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
   <details>
-    <summary>𖤍 If wanna see my rank</summary>
+    <summary>𖤍 Ckeckout my rank</summary>
     <img src= "https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&theme=github_dark&cache_seconds=6&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt = "Anuj's GitHub Stats">
   </details>
   
@@ -111,11 +114,12 @@ Here are some of my featured repositories:
 
 </td></tr></table>
 
----
-
-## Hacktoberfest'25
-
+<details>
+<summary>🏆 Hacktoberfest'25 & Holopin Badges</summary>
+  
 [![Holopin Dashboard](https://holopin.me/steambell92)](https://holopin.io/@steambell92)
+
+</details>
 
 ---
 
