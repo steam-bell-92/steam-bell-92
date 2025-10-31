@@ -121,6 +121,8 @@ Here are some of my featured repositories:
 
 </details>
 
+> If you found a project you love, please give it a **star** ⭐—it helps me stay motivated!
+
 ---
 
 ## 🧠 Competitive
