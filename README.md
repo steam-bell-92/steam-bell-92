@@ -28,11 +28,68 @@ Connect with me to discuss data science, open-source ideas, or professional oppo
 
 ## 🛠️ My Technical Stack
 
-| 💻 Programming Languages | 🧠 Data Science & ML | 📈 Data Visualization | ⚙️ Tools & DevOps |
-| :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"> | <img src="https://img.shields.io/badge/Matplotlib-111B35?style=flat&logo=matplotlib&logoColor=white"> | <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"> | <img src="https://img.shields.io/badge/Seaborn-3C9993?style=flat&logo=seaborn&logoColor=white"> | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"> | <img src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white"> | <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"> |
+<div align="center">
+  <h3>🛠️ My Tech Stack & Skills</h3>
+</div>
+
+<br>
+
+<table align="center" style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 10px; border-bottom: 2px solid #30363d; background-color: #0d1117; color: #c9d1d9; font-size: 1.1em; text-align: center;">💻 Programming Languages</th>
+      <th style="padding: 10px; border-bottom: 2px solid #30363d; background-color: #0d1117; color: #c9d1d9; font-size: 1.1em; text-align: center;">🧠 Data Science & ML</th>
+      <th style="padding: 10px; border-bottom: 2px solid #30363d; background-color: #0d1117; color: #c9d1d9; font-size: 1.1em; text-align: center;">📈 Data Visualization</th>
+      <th style="padding: 10px; border-bottom: 2px solid #30363d; background-color: #0d1117; color: #c9d1d9; font-size: 1.1em; text-align: center;">⚙️ Tools & DevOps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="center">
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+      </td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+      </td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Matplotlib-111B35?style=flat&logo=matplotlib&logoColor=white">
+      </td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+      </td>
+    </tr>
+    <tr align="center">
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+      </td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+      </td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Seaborn-3C9993?style=flat&logo=seaborn&logoColor=white">
+      </td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+      </td>
+    </tr>
+    <tr align="center">
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      </td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+      </td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white">
+      </td>
+      <td style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
 
 ---
 
