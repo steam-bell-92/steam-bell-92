@@ -1,30 +1,35 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Anuj!+%E2%9C%A8;Welcome+to+my+GitHub+corner.;Let's+build+something+cool.&center=true&size=30&duration=4500&color=007ACC&font=Dancing%20Script&speed=150&width=600&height=80" alt="Typing Animation">
 </p>
-
+      
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> Let's Connect & Collaborate! </h2>
 
-Connect with me to discuss data science, open-source ideas, or professional opportunities.
+<p align="center">Connect with me to discuss data science, open-source ideas, or professional opportunities.</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anuj-chandrakant-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.instagram.com/anujcoolkarni404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://x.com/AnujKulkarni040"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://anujck.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22B2DA?style=for-the-badge&logo=about-dot-me&logoColor=white"></a> 
-</p>
-
----
+<table width="100%" border="10" cellpadding="0" cellspacing="0" bgcolor="#000000" style="border: none; border-collapse: collapse; background-color: #0d1117;">
+  <tr>
+    <td width="70%" style="border: none; padding-right: 20px; vertical-align: top;"> 
+      <div align="left">
+        <a href="https://www.linkedin.com/in/anuj-chandrakant-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://www.instagram.com/anujcoolkarni404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+        <a href="https://x.com/AnujKulkarni040"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+        <a href="https://anujck.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22B2DA?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>&nbsp;
+      </div>
+    </td>
+    <td width="30%" align="right" style="border: none; vertical-align: top;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3B5N3N4aml5aGxzY2kwamxsaXp1ajdoN2MyZnFqdGw1ZWdiM2hjNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fwbZnTftCXVocKzfxR/giphy.gif" width="100%" alt="We Can Code This GIF" />
+    </td>
+  </tr>
+</table>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> Competitive Profiles </h2>
 
 <p align="center">
-    <a href="[CodeChef Link]"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
-    <a href="[Codeforces Link]"><img src="https://img.shields.io/badge/Codeforces-445CC3?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-    <a href="[LeetCode Link]"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-    <a href="[Kaggle Link]"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="[CodeChef Link]"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+  <a href="[Codeforces Link]"><img src="https://img.shields.io/badge/Codeforces-445CC3?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="[LeetCode Link]"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="[Kaggle Link]"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
-
----
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> My Technical Stack </h2>
 
