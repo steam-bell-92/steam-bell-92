@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Anuj!+%F0%9F%91%8B;Welcome+to+my+GitHub+corner.;Let's+build+something+cool.&center=true&size=30&duration=7000&color=007ACC&font=Fira%20Code&speed=250&width=600" alt="Typing Animation">
 </p>
 
-## 🔗 Let's Connect & Collaborate!
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> Let's Connect & Collaborate! </h2>
 
 Connect with me to discuss data science, open-source ideas, or professional opportunities.
 
@@ -15,7 +15,7 @@ Connect with me to discuss data science, open-source ideas, or professional oppo
 
 ---
 
-## 🏆 Competitive Profiles
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> Competitive Profiles </h2>
 
 <p align="center">
     <a href="[CodeChef Link]"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
@@ -26,7 +26,7 @@ Connect with me to discuss data science, open-source ideas, or professional oppo
 
 ---
 
-## 🛠️ My Technical Stack
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> My Technical Stack </h2>
 
 <br>
 
@@ -90,7 +90,7 @@ Connect with me to discuss data science, open-source ideas, or professional oppo
 ---
 
 <details>
-<summary>🏆 Hacktoberfest'25 & Holopin Badges</summary>
+<summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> Hacktoberfest'25 & Holopin Badges</summary>
   
 [![Holopin Dashboard](https://holopin.me/steambell92)](https://holopin.io/@steambell92)
 
@@ -98,7 +98,7 @@ Connect with me to discuss data science, open-source ideas, or professional oppo
 
 
 <details>
-<summary> 📊 GitHub Analytics</summary>
+<summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Analytics</summary>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
@@ -114,7 +114,7 @@ Connect with me to discuss data science, open-source ideas, or professional oppo
 
 
 <details>
-<summary>🐍 GitHub Snake Game</summary>
+<summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" /> GitHub Snake Game</summary>
 
 ![snake gif](https://github.com/steam-bell-92/steam-bell-92/blob/output/github-snake-dark.svg)
 
