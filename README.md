@@ -28,10 +28,6 @@ Connect with me to discuss data science, open-source ideas, or professional oppo
 
 ## 🛠️ My Technical Stack
 
-<div align="center">
-  <h3>🛠️ My Tech Stack & Skills</h3>
-</div>
-
 <br>
 
 <table align="center" style="width:100%; border-collapse: collapse;">
