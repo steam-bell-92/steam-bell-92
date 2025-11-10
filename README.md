@@ -6,7 +6,7 @@
 
 <p align="center">Connect with me to discuss data science, open-source ideas, or professional opportunities.</p>
 
-<table width="100%" border="10" cellpadding="0" cellspacing="0" bgcolor="#000000" style="border: none; border-collapse: collapse; background-color: #0d1117;">
+<table width="100%" border="5px" cellpadding="0" cellspacing="0" bgcolor="#000000" style="border: none; border-collapse: collapse; background-color: #0d1117;">
   <tr>
     <td width="70%" style="border: none; padding-right: 20px; vertical-align: top;"> 
       <div align="left">
