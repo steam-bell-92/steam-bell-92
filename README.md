@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Anuj!+%F0%9F%91%8B;Welcome+to+my+GitHub+corner.;Let's+build+something+cool.&center=true&size=30&duration=7000&color=007ACC&font=Fira%20Code&speed=250&width=600" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Anuj!+%E2%9C%A8;Welcome+to+my+GitHub+corner.;Let's+build+something+cool.&center=true&size=30&duration=4500&color=007ACC&font=Dancing%20Script&speed=150&width=600&height=80" alt="Typing Animation">
 </p>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> Let's Connect & Collaborate! </h2>
