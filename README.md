@@ -7,12 +7,14 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1cmRveHEzZG1lZzNvaWdqbTc4N3l6Z2JhaGlveXR1bmZyNzU0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" align='right' height="350px">
 
 <b>Connect with me via</b>:<br>
+
 <a href="https://anujck.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22B2DA?style=plastic&logo=about-dot-me&logoColor=white"></a><br>
 <a href="https://www.linkedin.com/in/anuj-chandrakant-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a><br>
 <a href="https://x.com/AnujKulkarni040"><img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white"></a><br>
 <a href="https://www.instagram.com/anujcoolkarni404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"></a><br>
 
 <b>Certificate</b>:
+
 <a href="https://coursera.org/share/5cf52edf24d1671007a7f038b00eecb0">Machine Learning Specialization</a>
 * Supervised Machine Learning: Regression and Classification
 * Advanced Learning Algorithms
