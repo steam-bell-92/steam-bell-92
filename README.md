@@ -5,22 +5,15 @@
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> Let's Connect & Collaborate! </h2>
 
 <p align="center">Connect with me to discuss data science, open-source ideas, or professional opportunities.</p>
-
-<table width="100%" border="2px" cellpadding="0" cellspacing="0" bgcolor="#000000" style="border: none; border-collapse: collapse; background-color: #0d1117;">
-  <tr>
-    <td width="70%" style="border: none; padding-right: 20px; vertical-align: top;"> 
       <div align="left">
         <a href="https://www.linkedin.com/in/anuj-chandrakant-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         <a href="https://www.instagram.com/anujcoolkarni404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
         <a href="https://x.com/AnujKulkarni040"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
         <a href="https://anujck.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22B2DA?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>&nbsp;
       </div>
-    </td>
-    <td width="30%" align="right" style="border: none; vertical-align: top;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3B5N3N4aml5aGxzY2kwamxsaXp1ajdoN2MyZnFqdGw1ZWdiM2hjNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fwbZnTftCXVocKzfxR/giphy.gif" width="100%" alt="We Can Code This GIF" />
-    </td>
-  </tr>
-</table>
+      <div align="right">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1cmRveHEzZG1lZzNvaWdqbTc4N3l6Z2JhaGlveXR1bmZyNzU0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif">
+      </div>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> Competitive Profiles </h2>
 
