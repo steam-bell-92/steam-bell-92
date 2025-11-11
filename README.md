@@ -7,10 +7,10 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1cmRveHEzZG1lZzNvaWdqbTc4N3l6Z2JhaGlveXR1bmZyNzU0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" align='right' height="350px">
 
 <b>Connect with me via</b>:<br>
-<a href="https://anujck.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22B2DA?style=for-the-badge&logo=about-dot-me&logoColor=white"></a><br>
-<a href="https://www.linkedin.com/in/anuj-chandrakant-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-<a href="https://x.com/AnujKulkarni040"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a><br>
-<a href="https://www.instagram.com/anujcoolkarni404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
+<a href="https://anujck.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22B2DA?style=plastic&logo=about-dot-me&logoColor=white"></a><br>
+<a href="https://www.linkedin.com/in/anuj-chandrakant-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a><br>
+<a href="https://x.com/AnujKulkarni040"><img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white"></a><br>
+<a href="https://www.instagram.com/anujcoolkarni404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"></a><br>
 
 <b>Certificate</b>:
 <a href="https://coursera.org/share/5cf52edf24d1671007a7f038b00eecb0">Machine Learning Specialization</a>
@@ -21,10 +21,10 @@
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> Competitive Profiles </h2>
 
 <p align="center">
-  <a href="[CodeChef Link]"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
-  <a href="[Codeforces Link]"><img src="https://img.shields.io/badge/Codeforces-445CC3?style=for-the-badge&logo=codeforces&logoColor=white"></a>
-  <a href="[LeetCode Link]"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="[Kaggle Link]"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/steam_bell_92"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=codechef&logoColor=white"></a>
+  <a href="https://codeforces.com/profile/steam_bell92"><img src="https://img.shields.io/badge/Codeforces-445CC3?style=plastic&logo=codeforces&logoColor=white"></a>
+  <a href="https://leetcode.com/u/steam_bell_92/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.kaggle.com/anujckulkarni"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white"></a>
 </p>
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> My Technical Stack </h2>
