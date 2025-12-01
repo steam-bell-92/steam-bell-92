@@ -18,7 +18,9 @@
 <a href="https://www.instagram.com/anujcoolkarni404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"></a><br>
 
 
-<b>Certificate</b>:  <a href="https://coursera.org/share/5cf52edf24d1671007a7f038b00eecb0">Machine Learning Specialization</a>
+<b>Certificate</b>:
+
+<a href="https://coursera.org/share/5cf52edf24d1671007a7f038b00eecb0">Machine Learning Specialization</a>
 * Supervised Machine Learning: Regression and Classification
 * Advanced Learning Algorithms
 * Unsupervised Learning, Recommenders, Reinforcement Learning
