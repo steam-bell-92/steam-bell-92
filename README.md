@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Anuj!+%E2%9C%A8;Welcome+to+my+GitHub+corner.;Let's+build+something+cool.&center=true&size=30&duration=4500&color=007ACC&font=Dancing%20Script&speed=150&width=600&height=80" alt="Typing Animation">
 </p>
 
+<div align='center'>
+  <img src="https://img.shields.io/static/v1?label=Sponsor+Me&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=plastic" width="120" alt="Sponsor"/>
+</div>
+
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> Let's Connect & Collaborate! </h2>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1cmRveHEzZG1lZzNvaWdqbTc4N3l6Z2JhaGlveXR1bmZyNzU0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" align='right' height="350px">
@@ -12,6 +16,7 @@
 <a href="https://www.linkedin.com/in/anuj-chandrakant-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a><br>
 <a href="https://x.com/AnujKulkarni040"><img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white"></a><br>
 <a href="https://www.instagram.com/anujcoolkarni404"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"></a><br>
+
 
 <b>Certificate</b>:
 
