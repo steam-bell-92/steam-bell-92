@@ -50,6 +50,7 @@
 <details>
 <summary><b>🧠 Data Science & ML</b></summary>
 <br>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
 <br>
