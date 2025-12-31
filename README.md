@@ -20,7 +20,7 @@
 
 <b>Certificate</b>:
 
-<a href="https://coursera.org/share/5cf52edf24d1671007a7f038b00eecb0">Machine Learning Specialization</a>
+<a href="https://github.com/steam-bell-92/steam-bell-92/blob/main/certs/Coursera%20-%20Machine%20Learning.pdf">Machine Learning Specialization</a>
 * Supervised Machine Learning: Regression and Classification
 * Advanced Learning Algorithms
 * Unsupervised Learning, Recommenders, Reinforcement Learning
