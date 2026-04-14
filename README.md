@@ -8,14 +8,14 @@
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> Let's Connect & Collaborate! </h2>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1cmRveHEzZG1lZzNvaWdqbTc4N3l6Z2JhaGlveXR1bmZyNzU0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" align='right' height="350px">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1cmRveHEzZG1lZzNvaWdqbTc4N3l6Z2JhaGlveXR1bmZyNzU0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" align='right' width="250px">
 
-<b>Connect with me via</b>:<br>
+<b>Connect with me via</b>:  
 
-<a href="https://anuj-kulkarni-portfolio.vercel.app"/><img src="https://img.shields.io/badge/Portfolio-22B2DA?style=plastic&logo=about-dot-me&logoColor=white"></a><br>
-<a href="https://www.linkedin.com/in/anuj-chandrakant-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a><br>
-<a href="https://x.com/AnujKulkarni040"><img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white"></a><br>
-<a href="https://www.instagram.com/obscura.nuj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"></a><br>
+<a href="https://anuj-kulkarni-portfolio.vercel.app"/><img src="https://img.shields.io/badge/Portfolio-22B2DA?style=plastic&logo=about-dot-me&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/anuj-chandrakant-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
+<a href="https://x.com/AnujKulkarni040"><img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white"></a>
+<a href="https://www.instagram.com/obscura.nuj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"></a>
 
 
 <b>Certificate</b>:
@@ -36,7 +36,6 @@
 
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> My Technical Stack </h2>
 
-<br>
 
 <details>
 <summary><b>💻 Programming Languages</b></summary>
