@@ -98,8 +98,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steam-bell-92&theme=github_dark" width="48.5%" alt="Most Commit Language" />
   </div>
 
-  <p align="center"><i>Language cards are powered by GitHub Linguist, which tracks Python and Jupyter Notebook separately.</i></p>
-
   <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=steam-bell-92&theme=github_dark" width="48.5%" alt="GitHub Stats" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steam-bell-92&theme=github_dark&utcOffset=5.5" width="48.5%" alt="Productive Time" />
