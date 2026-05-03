@@ -14,7 +14,6 @@
 
 <a href="https://anuj-kulkarni-portfolio.vercel.app"/><img src="https://img.shields.io/badge/Portfolio-22B2DA?style=plastic&logo=about-dot-me&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/anuj-chandrakant-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
-<a href="https://x.com/AnujKulkarni040"><img src="https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white"></a>
 <a href="https://www.instagram.com/obscura.nuj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"></a>
 
 
@@ -41,6 +40,7 @@
 <summary><b>💻 Programming Languages</b></summary>
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 <br>
@@ -69,7 +69,6 @@
 <br>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 <br>
 </details>
 
@@ -86,15 +85,51 @@
 <details>
 <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Analytics</summary>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  ![Anuj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=steam-bell-92&show_icons=true&rank_icon=percentile&theme=github_dark&cache_seconds=6&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steam-bell-92&langs_count=8&theme=github_dark)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=steam-bell-92&theme=dark)
-  
-  ![Anuj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=steam-bell-92&theme=github-dark)
+  <br/>
+
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steam-bell-92&theme=github_dark" width="98%" alt="Profile Details" />
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=steam-bell-92&theme=github_dark" width="48.5%" alt="Repos Per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steam-bell-92&theme=github_dark" width="48.5%" alt="Most Commit Language" />
+  </div>
+
+  <p align="center"><i>Language cards are powered by GitHub Linguist, which tracks Python and Jupyter Notebook separately.</i></p>
+
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=steam-bell-92&theme=github_dark" width="48.5%" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=steam-bell-92&theme=github_dark&utcOffset=5.5" width="48.5%" alt="Productive Time" />
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=steam-bell-92&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="98%" alt="GitHub Streak" />
+    </a>
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=steam-bell-92&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="98%" alt="GitHub Trophies" />
+    </a>
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=steam-bell-92&theme=react-dark&hide_border=true&area=true&area_color=00d9ff" width="98%" alt="Contribution Graph" />
+    </a>
+  </div>
+
+  <br/>
   
 </details>
 
