@@ -24,7 +24,7 @@
 * Advanced Learning Algorithms
 * Unsupervised Learning, Recommenders, Reinforcement Learning
         
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> Competitive Profiles </h2>
+<h2>🔥 Competitive Profiles </h2>
 
 <p align="center">
   <a href="https://www.codechef.com/users/steam_bell_92"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=codechef&logoColor=white"></a>
@@ -33,7 +33,7 @@
   <a href="https://www.kaggle.com/anujckulkarni"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white"></a>
 </p>
 
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> My Technical Stack </h2>
+<h2>👨🏻‍💻 My Technical Stack </h2>
 
 
 <details>
@@ -75,7 +75,7 @@
 ---
 
 <details>
-<summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> Hacktoberfest'25 & Holopin Badges</summary>
+<summary>🎖️ Hacktoberfest'25 & Holopin Badges</summary>
   
 [![Holopin Dashboard](https://holopin.me/steambell92)](https://holopin.io/@steambell92)
 
@@ -83,7 +83,7 @@
 
 
 <details>
-<summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> GitHub Analytics</summary>
+<summary>📊 GitHub Analytics</summary>
 
   <br/>
 
@@ -133,7 +133,7 @@
 
 
 <details>
-<summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" /> GitHub Snake Game</summary>
+<summary>𓆗 GitHub Snake Game</summary>
 
 ![snake gif](https://github.com/steam-bell-92/steam-bell-92/blob/output/github-snake-dark.svg)
 
