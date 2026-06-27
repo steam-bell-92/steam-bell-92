@@ -13,7 +13,7 @@
 <b>Connect with me via</b>:  
 
 <a href="https://anuj-kulkarni-portfolio.vercel.app"/><img src="https://img.shields.io/badge/Portfolio-22B2DA?style=plastic&logo=about-dot-me&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/anuj-chandrakant-kulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/anujckulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/obscura.nuj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"></a>
 
 
