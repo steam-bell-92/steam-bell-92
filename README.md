@@ -1,86 +1,56 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Anuj!+%E2%9C%A8;Welcome+to+my+GitHub+corner.;Let's+build+something+cool.&center=true&size=30&duration=4500&color=007ACC&font=Dancing%20Script&speed=150&width=600&height=80" alt="Typing Animation">
-</p>
-
-<div align='center'>
-  <img src="https://img.shields.io/static/v1?label=Sponsor+Me&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=plastic" width="120" alt="Sponsor"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Anuj!;Welcome+to+my+GitHub+corner.;Let's+build+something+cool.&center=true&size=30&duration=4500&color=007ACC&font=Dancing%20Script&speed=150&width=600&height=80" alt="Typing Animation">
 </div>
 
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> Let's Connect & Collaborate! </h2>
+👨🏻‍💻 **About Me**<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1cmRveHEzZG1lZzNvaWdqbTc4N3l6Z2JhaGlveXR1bmZyNzU0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" min-width="300px" max-width="200px" width="250px" align="right">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1cmRveHEzZG1lZzNvaWdqbTc4N3l6Z2JhaGlveXR1bmZyNzU0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" align='right' width="250px">
+✨ Business Analyst Aspirant | BI Developer | ML Enthusiast<br>
+⚡ Turning raw data into clear decisions — with SQL, Excel, Power BI & Machine Learning<br>
+📎 Check my [Portfolio](https://anuj-kulkarni-portfolio.vercel.app)<br>
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/anujckulkarni) or [Instagram](https://www.instagram.com/obscura.nuj)<br>
+🐦 Also on [Twitter (X)](https://x.com/AnujKulkarni040)<br>
+🎓 Certificate: [Machine Learning Specialization](https://github.com/steam-bell-92/steam-bell-92/blob/main/certs/Coursera%20-%20Machine%20Learning.pdf)<br>
 
-<b>Connect with me via</b>:  
+[![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor+Me&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=plastic)](https://github.com/sponsors/steam-bell-92)
 
-<a href="https://anuj-kulkarni-portfolio.vercel.app"/><img src="https://img.shields.io/badge/Portfolio-22B2DA?style=plastic&logo=about-dot-me&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/anujckulkarni"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/obscura.nuj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"></a>
+<!--- Adding Tech Stack open Section -->
 
+<b>🛠 Tech Stack / Certifications</b><br><br>
+Languages/Script: <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp;<br>
 
-<b>Certificate</b>:
+Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
+<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Matplotlib-111B35?logo=matplotlib&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Seaborn-3C9993?logo=seaborn&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Plotly-239120?logo=plotly&logoColor=white&style=flat">&nbsp;&nbsp;<br>
 
-<a href="https://github.com/steam-bell-92/steam-bell-92/blob/main/certs/Coursera%20-%20Machine%20Learning.pdf">Machine Learning Specialization</a>
-* Supervised Machine Learning: Regression and Classification
-* Advanced Learning Algorithms
-* Unsupervised Learning, Recommenders, Reinforcement Learning
-        
-<h2>🔥 Competitive Profiles </h2>
+Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=flat">&nbsp;
+
+## 🔥 Other Platforms
 
 <p align="center">
-  <a href="https://www.codechef.com/users/steam_bell_92"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=plastic&logo=codechef&logoColor=white"></a>
-  <a href="https://codeforces.com/profile/steam_bell92"><img src="https://img.shields.io/badge/Codeforces-445CC3?style=plastic&logo=codeforces&logoColor=white"></a>
-  <a href="https://leetcode.com/u/steam_bell_92/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white"></a>
-  <a href="https://www.kaggle.com/anujckulkarni"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/steam_bell_92">CodeChef</a> -
+  <a href="https://codeforces.com/profile/steam_bell92">CodeForces</a> -
+  <a href="https://leetcode.com/u/steam_bell_92/">Leetcode</a> -
+  <a href="https://www.kaggle.com/anujckulkarni">Kaggle</a>
 </p>
-
-<h2>👨🏻‍💻 My Technical Stack </h2>
-
-
-<details>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-<br>
-</details>
-
-<details>
-<summary><b>🧠 Data Science & ML</b></summary>
-<br>
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
-<br>
-</details>
-
-<details>
-<summary><b>📈 Data Visualization</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Matplotlib-111B35?style=flat&logo=matplotlib&logoColor=white">
-<img src="https://img.shields.io/badge/Seaborn-3C9993?style=flat&logo=seaborn&logoColor=white">
-<img src="https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white">
-<br>
-</details>
-
-<details>
-<summary><b>⚙️ Tools</b></summary>
-<br>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<br>
-</details>
 
 ---
 
 <details>
 <summary>🎖️ Hacktoberfest'25 & Holopin Badges</summary>
-  
+
 [![Holopin Dashboard](https://holopin.me/steambell92)](https://holopin.io/@steambell92)
 
 </details>
-
 
 <details>
 <summary>📊 GitHub Analytics</summary>
@@ -128,9 +98,8 @@
   </div>
 
   <br/>
-  
-</details>
 
+</details>
 
 <details>
 <summary>𓆗 GitHub Snake Game</summary>
