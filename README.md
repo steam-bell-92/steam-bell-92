@@ -4,12 +4,12 @@
 
 👨🏻‍💻 **About Me**<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB1cmRveHEzZG1lZzNvaWdqbTc4N3l6Z2JhaGlveXR1bmZyNzU0ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif" min-width="300px" max-width="200px" width="250px" align="right">
 
-✨ Business Analyst Aspirant | BI Developer | ML Enthusiast<br>
-⚡ Turning raw data into clear decisions — with SQL, Excel, Power BI & Machine Learning<br>
+✨ Aspiring Business Analyst & BI Developer<br>
+💡 Data to insights with SQL, Excel, Power BI & ML.<br>
 📎 Check my [Portfolio](https://anuj-kulkarni-portfolio.vercel.app)<br>
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/anujckulkarni) or [Instagram](https://www.instagram.com/obscura.nuj)<br>
 🐦 Also on [Twitter (X)](https://x.com/AnujKulkarni040)<br>
-🎓 Certificate: [Machine Learning Specialization](https://github.com/steam-bell-92/steam-bell-92/blob/main/certs/Coursera%20-%20Machine%20Learning.pdf)<br>
+🎓 Certificate: [Machine Learning Specialization](https://github.com/steam-bell-92/steam-bell-92/blob/main/Assets/Coursera%20-%20Machine%20Learning.pdf)<br>
 
 [![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor+Me&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=plastic)](https://github.com/sponsors/steam-bell-92)
 
